@@ -11,6 +11,8 @@ int main(){
     int a ,b;
     cin>>a;
     cin>>b;
+    cout<<INT_MAX;
     
+    cout<<INT_MIN;
 
 }
