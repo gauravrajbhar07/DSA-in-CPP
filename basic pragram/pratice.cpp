@@ -8,11 +8,7 @@ int subs(int a ,int b)
 }
 
 int main(){
-    int a ,b;
-    cin>>a;
-    cin>>b;
-    cout<<INT_MAX;
-    
-    cout<<INT_MIN;
-
+    cout<< (-3^-3);  
+    cout<< (2^2^2); 
+    cout<< (3^3^3^3);
 }
